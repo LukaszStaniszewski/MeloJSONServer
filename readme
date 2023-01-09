@@ -1,0 +1,2 @@
+npm run serve
+npx run json-server db.json --routes routes.json
