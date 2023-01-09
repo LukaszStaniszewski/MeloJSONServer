@@ -3,6 +3,8 @@ npx run json-server db.json --routes routes.json
 
 ### eventList
 
+http://localhost:3000/api/eventList
+
 ```
 {
     "name": string,
@@ -15,3 +17,7 @@ npx run json-server db.json --routes routes.json
     "eventId": number
 }
 ```
+
+### eventDetails
+
+http://localhost:3000/api/eventDetails

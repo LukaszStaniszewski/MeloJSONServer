@@ -4,7 +4,7 @@
       "name": "Bilard",
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
       "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
+      "invitedMembersNumber": 10,
       "memberLimit": 50,
       "mainPhoto": "https://ibb.co/0qH202J",
       "theme": "THEME_WHITE",
@@ -180,5 +180,84 @@
       "theme": "THEME_WHITE",
       "eventId": 18
     }
-  ]
+  ],
+  "eventDetails": {
+    "id": 1,
+    "name": "Bilard",
+    "startTime": "2023-01-05 11:07:00",
+    "endTime": "2023-01-05 17:00:00",
+    "type": "LIMITED_PUBLIC_INTERNAL",
+    "organaizer": {
+      "firstName": "Jan",
+      "lastName": "Kowalski"
+    },
+    "periodicType": "NONE",
+    "hashtags": ["billard", "impreza", "wyjście", "zabawa", "integracja"],
+    "memberLimit": 50,
+    "invitedMembers": [
+      {
+        "firstName": "Kasia",
+        "lastName": "Nowak"
+      },
+      {
+        "firstName": "Grzegorz",
+        "lastName": "Papuga"
+      },
+      {
+        "firstName": "Kasia",
+        "lastName": "Nowak"
+      },
+      {
+        "firstName": "Kasia",
+        "lastName": "Nowak"
+      },
+      {
+        "firstName": "Kasia",
+        "lastName": "Nowak"
+      },
+      {
+        "firstName": "Grzegorz",
+        "lastName": "Papuga"
+      },
+      {
+        "firstName": "Grzegorz",
+        "lastName": "Papuga"
+      },
+      {
+        "firstName": "Grzegorz",
+        "lastName": "Papuga"
+      },
+      {
+        "firstName": "Grzegorz",
+        "lastName": "Papuga"
+      },
+      {
+        "firstName": "Grzegorz",
+        "lastName": "Papuga"
+      }
+    ],
+    "location": {
+      "streetName": "Cybernetyki",
+      "streenNumber": 9,
+      "aparmentNumber": 25,
+      "postalCode": "02-677",
+      "city": "Warszawa"
+    },
+    "attachments": [
+      {
+        "name": "obrazek",
+        "attachmentUrl": "url",
+        "attachmentType": "cos"
+      }
+    ],
+    "category": "Integracja",
+    "mainPhoto": "https://ibb.co/0qH202J",
+    "theme": "THEME_WHITE",
+    "pollQuestions": [
+      { "id": 1421, "question": "Co tam" },
+      { "id": 14231, "question": "Co tam" },
+      { "id": 441, "question": "Co tam" },
+      { "id": 2321, "question": "Co tam" }
+    ]
+  }
 }
