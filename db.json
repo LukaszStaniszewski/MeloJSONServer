@@ -1,5 +1,184 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "eventList": [
+    {
+      "name": "Bilard",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 1
+    },
+    {
+      "name": "Wyjscie na piwo",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-10- 11:40:00",
+      "invitedMembersNumber": 4,
+      "memberLimit": 15,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_BROWN",
+      "eventId": 2
+    },
+    {
+      "name": "Wykład z Angulara",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-02-05 15:00:00",
+      "invitedMembersNumber": 30,
+      "memberLimit": "unlimited",
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_PURPLE",
+      "eventId": 3
+    },
+    {
+      "name": "Kręgle",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-025 18:00:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 100,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_GREEN",
+      "eventId": 4
+    },
+    {
+      "name": "Bilard2",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 5
+    },
+    {
+      "name": "Bilard3",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 6
+    },
+    {
+      "name": "Bilard4",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 7
+    },
+    {
+      "name": "Bilard5",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 8
+    },
+    {
+      "name": "Bilard6",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": "unlimited",
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 9
+    },
+    {
+      "name": "Bilard7",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 10
+    },
+    {
+      "name": "Bilard8",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 11
+    },
+    {
+      "name": "Bilard9",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 12
+    },
+    {
+      "name": "Bilard10",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 13
+    },
+    {
+      "name": "Bilard11",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 14
+    },
+    {
+      "name": "Bilard12",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 15
+    },
+    {
+      "name": "Bilard13",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 16
+    },
+    {
+      "name": "Bilard14",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 17
+    },
+    {
+      "name": "Bilard15",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+      "startTime": "2023-01-05 11:07:00",
+      "invitedMembersNumber": 25,
+      "memberLimit": 50,
+      "mainPhoto": "https://ibb.co/0qH202J",
+      "theme": "THEME_WHITE",
+      "eventId": 18
+    }
+  ]
 }

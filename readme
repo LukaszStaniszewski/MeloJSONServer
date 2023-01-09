@@ -1,2 +1,17 @@
 npm run serve
 npx run json-server db.json --routes routes.json
+
+### eventList
+
+```
+{
+    "name": string,
+    "description": string,
+    "startTime": "2023-01-05 11:07:00",
+    "invitedMembersNumber": number,
+    "memberLimit": number | string => 50 | "unlimited",
+    "mainPhoto": string,
+    "theme": "THEME_WHITE",
+    "eventId": number
+}
+```
