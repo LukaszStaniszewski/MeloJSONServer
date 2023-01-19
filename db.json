@@ -1,4 +1,11 @@
 {
+  "users": [
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$2pFOzWaWELgxwu4pHrlqkewEaQbfDdSgKh2yCH/YnlJoCmCs1fK3.",
+      "id": 1
+    }
+  ],
   "event": [
     {
       "id": 1,
@@ -12,11 +19,21 @@
         "lastName": "Kowalski"
       },
       "periodicType": "NONE",
-      "hashtags": ["billard", "impreza", "wyjście", "zabawa", "integracja"],
+      "hashtags": [
+        "billard",
+        "impreza",
+        "wyjście",
+        "zabawa",
+        "integracja"
+      ],
       "memberLimit": 50,
       "invitedMembersNumber": 10,
       "invitedMembers": [
-        { "id": "1234", "firstName": "Kasia", "lastName": "Nowak" },
+        {
+          "id": "1234",
+          "firstName": "Kasia",
+          "lastName": "Nowak"
+        },
         {
           "id": "1235",
           "firstName": "Grzegorz",
@@ -81,10 +98,22 @@
       "mainPhoto": "https://ibb.co/0qH202J",
       "theme": "THEME_WHITE",
       "pollQuestions": [
-        { "id": 1421, "question": "Co tam" },
-        { "id": 14231, "question": "Co tam" },
-        { "id": 441, "question": "Co tam" },
-        { "id": 2321, "question": "Co tam" }
+        {
+          "id": 1421,
+          "question": "Co tam"
+        },
+        {
+          "id": 14231,
+          "question": "Co tam"
+        },
+        {
+          "id": 441,
+          "question": "Co tam"
+        },
+        {
+          "id": 2321,
+          "question": "Co tam"
+        }
       ]
     },
     {
@@ -270,10 +299,20 @@
         "lastName": "Kowalski"
       },
       "periodicType": "NONE",
-      "hashtags": ["billard", "impreza", "wyjście", "zabawa", "integracja"],
+      "hashtags": [
+        "billard",
+        "impreza",
+        "wyjście",
+        "zabawa",
+        "integracja"
+      ],
       "memberLimit": 50,
       "invitedMembers": [
-        { "id": "1234", "firstName": "Kasia", "lastName": "Nowak" },
+        {
+          "id": "1234",
+          "firstName": "Kasia",
+          "lastName": "Nowak"
+        },
         {
           "id": "1235",
           "firstName": "Grzegorz",
@@ -338,10 +377,22 @@
       "mainPhoto": "https://ibb.co/0qH202J",
       "theme": "THEME_WHITE",
       "pollQuestions": [
-        { "id": 1421, "question": "Co tam" },
-        { "id": 14231, "question": "Co tam" },
-        { "id": 441, "question": "Co tam" },
-        { "id": 2321, "question": "Co tam" }
+        {
+          "id": 1421,
+          "question": "Co tam"
+        },
+        {
+          "id": 14231,
+          "question": "Co tam"
+        },
+        {
+          "id": 441,
+          "question": "Co tam"
+        },
+        {
+          "id": 2321,
+          "question": "Co tam"
+        }
       ]
     }
   ]

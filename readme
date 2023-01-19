@@ -3,7 +3,7 @@ npx run json-server db.json --routes routes.json
 
 ### eventList
 
-http://localhost:3000/api/eventList
+http://localhost:3000/api/event
 
 ```
 {
@@ -20,4 +20,16 @@ http://localhost:3000/api/eventList
 
 ### eventDetails
 
-http://localhost:3000/api/eventDetails
+http://localhost:3000/api/:id
+
+### login
+
+http://localhost:3000/login
+
+```
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$2pFOzWaWELgxwu4pHrlqkewEaQbfDdSgKh2yCH/YnlJoCmCs1fK3.",
+      "id": 1
+    }
+```
