@@ -6,5 +6,6 @@
   "/posts/:category": "/posts?category=:category",
   "/articles\\?id=:id": "/posts/:id",
   "/evenDetails/:id": "/event/:id",
-  "/event/:id": "/evenDetails/:id"
+  "/event/:id": "/evenDetails/:id",
+  "/currentUser": "/600/users/1"
 }
