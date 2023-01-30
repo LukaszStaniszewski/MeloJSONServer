@@ -1,399 +1,1183 @@
 {
-  "users": [
-    {
-      "email": "test@gmail.com",
-      "password": "$2a$10$h9SbCW2fMLTYXgkwG3yZ.ea/UKq9vmrRJYDndp4oKzDn0o1mS7Wim",
-      "id": 1
-    }
-  ],
-  "event": [
-    {
-      "id": 1,
-      "eventId": 1,
-      "name": "Bilard",
-      "startTime": "2023-01-05 11:07:00",
-      "endTime": "2023-01-05 17:00:00",
-      "type": "LIMITED_PUBLIC_INTERNAL",
-      "organizer": {
-        "firstName": "Jan",
-        "lastName": "Kowalski"
-      },
-      "periodicType": "NONE",
-      "hashtags": [
-        "billard",
-        "impreza",
-        "wyjście",
-        "zabawa",
-        "integracja"
-      ],
-      "memberLimit": 50,
-      "invitedMembersNumber": 10,
-      "invitedMembers": [
-        {
-          "id": "1234",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1235",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1236",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1237",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1238",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1239",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1240",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1241",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1242",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1243",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        }
-      ],
-      "location": {
-        "streetName": "Cybernetyki",
-        "streenNumber": 9,
-        "aparmentNumber": 25,
-        "postalCode": "02-677",
-        "city": "Warszawa"
-      },
-      "attachments": [
-        {
-          "name": "obrazek",
-          "attachmentUrl": "url",
-          "attachmentType": "cos"
-        }
-      ],
-      "category": "Integracja",
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "pollQuestions": [
-        {
-          "id": 1421,
-          "question": "Co tam"
-        },
-        {
-          "id": 14231,
-          "question": "Co tam"
-        },
-        {
-          "id": 441,
-          "question": "Co tam"
-        },
-        {
-          "id": 2321,
-          "question": "Co tam"
-        }
-      ]
-    },
-    {
-      "name": "Wyjscie na piwo",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-10- 11:40:00",
-      "invitedMembersNumber": 4,
-      "memberLimit": 15,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_BROWN",
-      "eventId": 2
-    },
-    {
-      "name": "Wykład z Angulara",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-02-05 15:00:00",
-      "invitedMembersNumber": 30,
-      "memberLimit": "unlimited",
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_PURPLE",
-      "eventId": 3
-    },
-    {
-      "name": "Kręgle",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-025 18:00:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 100,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_GREEN",
-      "eventId": 4
-    },
-    {
-      "name": "Bilard2",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 5
-    },
-    {
-      "name": "Bilard3",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 6
-    },
-    {
-      "name": "Bilard4",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 7
-    },
-    {
-      "name": "Bilard5",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 8
-    },
-    {
-      "name": "Bilard6",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": "unlimited",
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 9
-    },
-    {
-      "name": "Bilard7",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 10
-    },
-    {
-      "name": "Bilard8",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 11
-    },
-    {
-      "name": "Bilard9",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 12
-    },
-    {
-      "name": "Bilard10",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 13
-    },
-    {
-      "name": "Bilard11",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 14
-    },
-    {
-      "name": "Bilard12",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 15
-    },
-    {
-      "name": "Bilard13",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 16
-    },
-    {
-      "name": "Bilard14",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 17
-    },
-    {
-      "name": "Bilard15",
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-      "startTime": "2023-01-05 11:07:00",
-      "invitedMembersNumber": 25,
-      "memberLimit": 50,
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "eventId": 18
-    }
-  ],
-  "eventDetails": [
-    {
-      "id": 1,
-      "name": "Bilard",
-      "startTime": "2023-01-05 11:07:00",
-      "endTime": "2023-01-05 17:00:00",
-      "type": "LIMITED_PUBLIC_INTERNAL",
-      "organizer": {
-        "firstName": "Jan",
-        "lastName": "Kowalski"
-      },
-      "periodicType": "NONE",
-      "hashtags": [
-        "billard",
-        "impreza",
-        "wyjście",
-        "zabawa",
-        "integracja"
-      ],
-      "memberLimit": 50,
-      "invitedMembers": [
-        {
-          "id": "1234",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1235",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1236",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1237",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1238",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
-        },
-        {
-          "id": "1239",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1240",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1241",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1242",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        },
-        {
-          "id": "1243",
-          "firstName": "Grzegorz",
-          "lastName": "Papuga"
-        }
-      ],
-      "location": {
-        "streetName": "Cybernetyki",
-        "streenNumber": 9,
-        "aparmentNumber": 25,
-        "postalCode": "02-677",
-        "city": "Warszawa"
-      },
-      "attachments": [
-        {
-          "name": "obrazek",
-          "attachmentUrl": "url",
-          "attachmentType": "cos"
-        }
-      ],
-      "category": "Integracja",
-      "mainPhoto": "https://ibb.co/0qH202J",
-      "theme": "THEME_WHITE",
-      "pollQuestions": [
-        {
-          "id": 1421,
-          "question": "Co tam"
-        },
-        {
-          "id": 14231,
-          "question": "Co tam"
-        },
-        {
-          "id": 441,
-          "question": "Co tam"
-        },
-        {
-          "id": 2321,
-          "question": "Co tam"
-        }
-      ]
-    }
-  ]
+	"users": [
+		{
+			"email": "test@gmail.com",
+			"password": "$2a$10$h9SbCW2fMLTYXgkwG3yZ.ea/UKq9vmrRJYDndp4oKzDn0o1mS7Wim",
+			"id": 1
+		}
+	],
+	"event": [
+		{
+			"id": 1,
+			"eventId": 1,
+			"name": "Bilard",
+			"startTime": "2023-01-05 11:07:00",
+			"endTime": "2023-01-05 17:00:00",
+			"type": "LIMITED_PUBLIC_INTERNAL",
+			"organizer": {
+				"firstName": "Jan",
+				"lastName": "Kowalski"
+			},
+			"periodicType": "NONE",
+			"hashtags": ["billard", "impreza", "wyjście", "zabawa", "integracja"],
+			"memberLimit": 50,
+			"invitedMembersNumber": 10,
+			"invitedMembers": [
+				{
+					"id": "1234",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1235",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1236",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1237",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1238",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1239",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1240",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1241",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1242",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1243",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				}
+			],
+			"location": {
+				"streetName": "Cybernetyki",
+				"streenNumber": 9,
+				"aparmentNumber": 25,
+				"postalCode": "02-677",
+				"city": "Warszawa"
+			},
+			"attachments": [
+				{
+					"name": "obrazek",
+					"attachmentUrl": "url",
+					"attachmentType": "cos"
+				}
+			],
+			"category": "Integracja",
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"pollQuestions": [
+				{
+					"id": 1421,
+					"question": "Co tam"
+				},
+				{
+					"id": 14231,
+					"question": "Co tam"
+				},
+				{
+					"id": 441,
+					"question": "Co tam"
+				},
+				{
+					"id": 2321,
+					"question": "Co tam"
+				}
+			]
+		},
+		{
+			"name": "Wyjscie na piwo",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-10- 11:40:00",
+			"invitedMembersNumber": 4,
+			"memberLimit": 15,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_BROWN",
+			"eventId": 2
+		},
+		{
+			"name": "Wykład z Angulara",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-02-05 15:00:00",
+			"invitedMembersNumber": 30,
+			"memberLimit": "unlimited",
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_PURPLE",
+			"eventId": 3
+		},
+		{
+			"name": "Kręgle",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-025 18:00:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 100,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_GREEN",
+			"eventId": 4
+		},
+		{
+			"name": "Bilard2",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 5
+		},
+		{
+			"name": "Bilard3",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 6
+		},
+		{
+			"name": "Bilard4",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 7
+		},
+		{
+			"name": "Bilard5",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 8
+		},
+		{
+			"name": "Bilard6",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": "unlimited",
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 9
+		},
+		{
+			"name": "Bilard7",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 10
+		},
+		{
+			"name": "Bilard8",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 11
+		},
+		{
+			"name": "Bilard9",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 12
+		},
+		{
+			"name": "Bilard10",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 13
+		},
+		{
+			"name": "Bilard11",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 14
+		},
+		{
+			"name": "Bilard12",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 15
+		},
+		{
+			"name": "Bilard13",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 16
+		},
+		{
+			"name": "Bilard14",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 17
+		},
+		{
+			"name": "Bilard15",
+			"description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"eventId": 18
+		}
+	],
+	"eventDetails": [
+		{
+			"id": 1,
+			"name": "Bilard",
+			"startTime": "2023-01-05 11:07:00",
+			"endTime": "2023-01-05 17:00:00",
+			"type": "LIMITED_PUBLIC_INTERNAL",
+			"organizer": {
+				"firstName": "Jan",
+				"lastName": "Kowalski"
+			},
+			"periodicType": "NONE",
+			"hashtags": ["billard", "impreza", "wyjście", "zabawa", "integracja"],
+			"memberLimit": 50,
+			"invitedMembers": [
+				{
+					"id": "1234",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1235",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1236",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1237",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1238",
+					"firstName": "Kasia",
+					"lastName": "Nowak"
+				},
+				{
+					"id": "1239",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1240",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1241",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1242",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				},
+				{
+					"id": "1243",
+					"firstName": "Grzegorz",
+					"lastName": "Papuga"
+				}
+			],
+			"location": {
+				"streetName": "Cybernetyki",
+				"streenNumber": 9,
+				"aparmentNumber": 25,
+				"postalCode": "02-677",
+				"city": "Warszawa"
+			},
+			"attachments": [
+				{
+					"name": "obrazek",
+					"attachmentUrl": "url",
+					"attachmentType": "cos"
+				}
+			],
+			"category": "Integracja",
+			"mainPhoto": "https://ibb.co/0qH202J",
+			"theme": "THEME_WHITE",
+			"pollQuestions": [
+				{
+					"id": 1421,
+					"question": "Co tam"
+				},
+				{
+					"id": 14231,
+					"question": "Co tam"
+				},
+				{
+					"id": 441,
+					"question": "Co tam"
+				},
+				{
+					"id": 2321,
+					"question": "Co tam"
+				}
+			]
+		}
+	],
+	"units": [
+		{
+			"id": 1,
+			"title": "Nazwa koła",
+			"description": "Lorem ipsum",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-01-12 11:00:00",
+					"endTime": "2023-01-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-01-12 11:00:00",
+					"endTime": "2023-01-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-01-12 11:00:00",
+					"endTime": "2023-01-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 2,
+			"title": "Nazwa koła2",
+			"description": "Lorem ipsum trlalala",
+			"owner": {
+				"firstName": "Anna",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-03-12 11:00:00",
+					"endTime": "2023-03-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-03-16 11:00:00",
+					"endTime": "2023-03-12 14:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-04-12 11:00:00",
+					"endTime": "2023-04-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				}
+			],
+			"memberCount": 2
+		},
+		{
+			"id": 3,
+			"title": "Nazwa koła3",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 4,
+			"title": "Nazwa koła 4",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 5,
+			"title": "Nazwa koła 5",
+			"description": "Lorem ipsum  lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 6,
+			"title": "Nazwa koła 6",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 7,
+			"title": "Nazwa koła 7",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 8,
+			"title": "Nazwa koła 8",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 9,
+			"title": "Nazwa koła 9",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 10,
+			"title": "Nazwa koła 10",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 11,
+			"title": "Nazwa koła 11",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 12,
+			"title": "Nazwa koła 12",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 13,
+			"title": "Nazwa koła 13",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		},
+		{
+			"id": 14,
+			"title": "Nazwa koła 14",
+			"description": "Lorem ipsum ipsum lorem",
+			"owner": {
+				"firstName": "John",
+				"lastName": "Black"
+			},
+			"events": [
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 1
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"location": {
+						"streetName": "Postepu",
+						"streetNumber": "9",
+						"apartmentNumber": "12",
+						"postalCode": "01-666",
+						"city": "Warszawa"
+					},
+					"eventId": 2
+				},
+				{
+					"title": "Some random event title",
+					"startTime": "2023-05-12 11:00:00",
+					"endTime": "2023-05-12 13:00:00",
+					"category": "Category",
+					"hashtags": ["Hashtag1", "Hashtag2"],
+					"eventId": 3
+				}
+			],
+			"members": [
+				{
+					"firstName": "John",
+					"lastName": "Black"
+				},
+				{
+					"firstName": "Jan",
+					"lastName": "Czarny"
+				},
+				{
+					"firstName": "Drzon",
+					"lastName": "White"
+				}
+			],
+			"memberCount": 3
+		}
+	]
 }
