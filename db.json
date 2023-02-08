@@ -1177,15 +1177,15 @@
           "lastName": "White"
         }
       ],
-      "memberCount": 3,
-      "hashtags": {
-        "stats": {
-          "hashtagWithName": 150,
-          "SomeHashtag": 125,
-          "OtherHashtag": 120,
-          "SomethingElse": 1000
-        }
-      }
+      "memberCount": 3
     }
-  ]
+  ],
+  "hashtags": {
+    "stats": {
+      "hashtagWithName": 150,
+      "SomeHashtag": 125,
+      "OtherHashtag": 120,
+      "SomethingElse": 1000
+    }
+  }
 }
