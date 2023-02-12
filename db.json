@@ -1180,18 +1180,10 @@
       "memberCount": 3
     }
   ],
-  "hashtags": {
-    "stats": {
-      "hashtagWithName": 150,
-      "SomeHashtag": 125,
-      "OtherHashtag": 120,
-      "SomethingElse": 1000
-    }
-  },
-  "hashtagsNew": [
+  "hashtags": [
     { "name": "hashtagWithName", "quantity": 150, "isVisible": true },
     { "name": "SomeHashtag", "quantity": 125, "isVisible": true },
     { "name": "OtherHashtag", "quantity": 120, "isVisible": true },
-    { "name": "SomethingElse", "quantity": 1000, "isVisible": true }
+    { "name": "SomethingElse", "quantity": 100, "isVisible": true }
   ]
 }
