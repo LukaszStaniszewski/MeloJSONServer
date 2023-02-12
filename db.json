@@ -1193,5 +1193,11 @@
       "description": "lorem",
       "mainPhoto": "assets/mock/unit-main.webp"
     }
+  ],
+  "hashtags": [
+    { "name": "hashtagWithName", "quantity": 150, "isVisible": true },
+    { "name": "SomeHashtag", "quantity": 125, "isVisible": true },
+    { "name": "OtherHashtag", "quantity": 120, "isVisible": true },
+    { "name": "SomethingElse", "quantity": 100, "isVisible": true }
   ]
 }
