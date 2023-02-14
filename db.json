@@ -1198,6 +1198,11 @@
     { "name": "hashtagWithName", "quantity": 150, "isVisible": true },
     { "name": "SomeHashtag", "quantity": 125, "isVisible": true },
     { "name": "OtherHashtag", "quantity": 120, "isVisible": true },
-    { "name": "SomethingElse", "quantity": 100, "isVisible": true }
+    { "name": "SomethingElse", "quantity": 100, "isVisible": true },
+    {
+      "name": "HashtagThatHas50CharactersBecauseThisIsMaxItCanBe!",
+      "quantity": 80,
+      "isVisible": true
+    }
   ]
 }
