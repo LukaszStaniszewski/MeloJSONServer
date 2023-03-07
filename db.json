@@ -16,9 +16,11 @@
       "name": "Bilard",
       "startTime": "2023-01-05 11:07:00",
       "endTime": "2023-01-05 17:00:00",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut olor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "type": "LIMITED_PUBLIC_INTERNAL",
       "organizer": {
+        "id": "1237",
+
         "firstName": "Jan",
         "lastName": "Kowalski"
       },
@@ -44,8 +46,8 @@
         },
         {
           "id": "1237",
-          "firstName": "Kasia",
-          "lastName": "Nowak"
+          "firstName": "Jan",
+          "lastName": "Kowalski"
         },
         {
           "id": "1238",
@@ -80,10 +82,12 @@
       ],
       "location": {
         "streetName": "Cybernetyki",
-        "streenNumber": 9,
+        "streetNumber": 9,
         "aparmentNumber": 25,
         "postalCode": "02-677",
-        "city": "Warszawa"
+        "city": "Warszawa",
+        "lat": 52.17565,
+        "long": 20.99644
       },
       "attachments": [
         {
