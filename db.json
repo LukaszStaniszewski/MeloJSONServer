@@ -16,9 +16,11 @@
 			"name": "Bilard",
 			"startTime": "2023-01-05 11:07:00",
 			"endTime": "2023-01-05 17:00:00",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut olor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
 			"type": "LIMITED_PUBLIC_INTERNAL",
 			"organizer": {
+				"id": "1237",
+
 				"firstName": "Jan",
 				"lastName": "Kowalski"
 			},
@@ -44,8 +46,8 @@
 				},
 				{
 					"id": "1237",
-					"firstName": "Kasia",
-					"lastName": "Nowak"
+					"firstName": "Jan",
+					"lastName": "Kowalski"
 				},
 				{
 					"id": "1238",
@@ -80,10 +82,12 @@
 			],
 			"location": {
 				"streetName": "Cybernetyki",
-				"streenNumber": 9,
+				"streetNumber": 9,
 				"aparmentNumber": 25,
 				"postalCode": "02-677",
-				"city": "Warszawa"
+				"city": "Warszawa",
+				"lat": 52.17565,
+				"long": 20.99644
 			},
 			"attachments": [
 				{
@@ -127,6 +131,7 @@
 		{
 			"name": "Wykład z Angulara",
 			"description": "Lorem ipsum dolor asdsadsa dsadsad sad sadsa dasdsadsa dasdsadasdas asdsadasdsasadd  dasdsa sit amet, consectetur adipiscing elit, sed do",
+
 			"startTime": "2023-02-05 15:00:00",
 			"invitedMembersNumber": 30,
 			"memberLimit": null,
@@ -283,6 +288,486 @@
 			"mainPhoto": "assets/mock/beers.png",
 			"theme": "blue",
 			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard9",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 12
+		},
+		{
+			"name": "Bilard10",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 13
+		},
+		{
+			"name": "Bilard11",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "brown",
+			"eventId": 14
+		},
+		{
+			"name": "Bilard12",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 15
+		},
+		{
+			"name": "Bilard13",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 16
+		},
+		{
+			"name": "Bilard14",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "purple",
+			"eventId": 17
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard9",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 12
+		},
+		{
+			"name": "Bilard10",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 13
+		},
+		{
+			"name": "Bilard11",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "brown",
+			"eventId": 14
+		},
+		{
+			"name": "Bilard12",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 15
+		},
+		{
+			"name": "Bilard13",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 16
+		},
+		{
+			"name": "Bilard14",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "purple",
+			"eventId": 17
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard9",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 12
+		},
+		{
+			"name": "Bilard10",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 13
+		},
+		{
+			"name": "Bilard11",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "brown",
+			"eventId": 14
+		},
+		{
+			"name": "Bilard12",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 15
+		},
+		{
+			"name": "Bilard13",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 16
+		},
+		{
+			"name": "Bilard14",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "purple",
+			"eventId": 17
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard9",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 12
+		},
+		{
+			"name": "Bilard10",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 13
+		},
+		{
+			"name": "Bilard11",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "brown",
+			"eventId": 14
+		},
+		{
+			"name": "Bilard12",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 15
+		},
+		{
+			"name": "Bilard13",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "white",
+			"eventId": 16
+		},
+		{
+			"name": "Bilard14",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "purple",
+			"eventId": 17
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
+		},
+		{
+			"name": "Bilard15",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+			"startTime": "2023-01-05 11:07:00",
+			"invitedMembersNumber": 25,
+			"memberLimit": 50,
+			"mainPhoto": "assets/mock/beers.png",
+			"theme": "blue",
+			"eventId": 18
 		}
 	],
 	"eventDetails": [
@@ -388,34 +873,6 @@
 			]
 		}
 	],
-	"categories": [
-		{
-			"id": 1,
-			"name": "Sport",
-			"isVisible": true
-		},
-		{
-			"id": 2,
-			"name": "Integracja",
-			"isVisible": true
-		},
-		{
-			"id": 3,
-			"name": "Wykład z czegoś żeby była długa nazwa",
-			"isVisible": true
-		},
-		{
-			"id": 4,
-			"name": "Dezintegracja",
-			"isVisible": false
-		},
-		{
-			"id": 5,
-			"name": "Jedzenie",
-			"isVisible": true
-		}
-	],
-
 	"units": [
 		{
 			"id": 1,
@@ -476,7 +933,7 @@
 		},
 		{
 			"id": 2,
-			"name": "nazwa koła 2",
+			"name": "nazwa koła2",
 			"description": "Lorem ipsum trlalala",
 			"owner": {
 				"firstName": "Anna",
@@ -1222,24 +1679,13 @@
 		}
 	],
 	"hashtags": [
+		{ "name": "hashtagWithName", "quantity": 150, "isVisible": true },
+		{ "name": "SomeHashtag", "quantity": 125, "isVisible": true },
+		{ "name": "OtherHashtag", "quantity": 120, "isVisible": true },
+		{ "name": "SomethingElse", "quantity": 100, "isVisible": true },
 		{
-			"name": "hashtagWithName",
-			"quantity": 150,
-			"isVisible": true
-		},
-		{
-			"name": "SomeHashtag",
-			"quantity": 125,
-			"isVisible": true
-		},
-		{
-			"name": "OtherHashtag",
-			"quantity": 120,
-			"isVisible": true
-		},
-		{
-			"name": "SomethingElse",
-			"quantity": 100,
+			"name": "HashtagThatHas50CharactersBecauseThisIsMaxItCanBe!",
+			"quantity": 80,
 			"isVisible": true
 		}
 	],
@@ -1298,6 +1744,33 @@
 			"categoryName": "Muzyka",
 			"accepted": true,
 			"requestedBy": "Filip Kakonowicz"
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Sport",
+			"isVisible": true
+		},
+		{
+			"id": 2,
+			"name": "Integracja",
+			"isVisible": true
+		},
+		{
+			"id": 3,
+			"name": "Wykład z czegoś żeby była długa nazwa",
+			"isVisible": true
+		},
+		{
+			"id": 4,
+			"name": "Dezintegracja",
+			"isVisible": false
+		},
+		{
+			"id": 5,
+			"name": "Jedzenie",
+			"isVisible": true
 		}
 	]
 }
